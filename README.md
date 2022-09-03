@@ -4,5 +4,5 @@
 
 <p align="center"> Repositório reservado para os conteúdos da aula de Programação Orientada a Objetos </p>
 
-  <h2 align="center"> Dia 26 de agosto de 2022 </h2>
+  <h2 align="center"> Dia 26 de Agosto de 2022 </h2>
 
